@@ -1,7 +1,7 @@
 ---
 title: Learn Docker in 5 parts (Part 1 - General Concepts)
 date: 2021-04-26T12:00:06+09:00
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+description: Docker accelerates how you build, share and run modern applications without worrying about environment.
 draft: false
 hideToc: false
 enableToc: true
